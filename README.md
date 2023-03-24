@@ -1,2 +1,2 @@
-# ignite-feed
+# Libri-feed
 Projeto desenvolvido nas aulas do curso da Rocketseat/Ignite
